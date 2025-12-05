@@ -10,3 +10,5 @@ coroutine.wrap(function()
     print(ans)
 end)()
 ```
+
+https://minecraft.wiki/w/RCON
