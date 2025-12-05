@@ -1,6 +1,6 @@
 # RCON Protocol implementation in Luvit
 
-Using:
+How to use:
 
 ```lua
 coroutine.wrap(function()
