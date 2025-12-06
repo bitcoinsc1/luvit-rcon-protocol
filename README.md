@@ -6,7 +6,7 @@ How to use:
 coroutine.wrap(function()
     local connection = require('rcon')('IP_ADDRESS', PORT, 'PASSWORD')
 
-    local ans = connection:sendCommand('status')
+    local ans = connection:sendCommand('help')
     print(ans)
 end)()
 ```
